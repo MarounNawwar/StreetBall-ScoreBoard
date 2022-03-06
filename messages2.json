@@ -1,0 +1,50 @@
+{
+    "Team1": {
+        "Name": "Team 1",
+        "Player1": {
+            "Name": "Michel",
+            "Score": 8,
+            "Fouls": 3
+        },
+        "Player2": {
+            "Name": "Maroun",
+            "Score": 0,
+            "Fouls": 0
+        },
+        "Player3": {
+            "Name": "Charbel",
+            "Score": 3,
+            "Fouls": 1
+        },
+        "Player4": {
+            "Name": "Marten",
+            "Score": 2,
+            "Fouls": 0
+        },
+        "Total_Score": 13
+    },
+    "Team2": {
+        "Name": "Team 2",
+        "Player1": {
+            "Name": "Joe",
+            "Score": 0,
+            "Fouls": 0
+        },
+        "Player2": {
+            "Name": "Elie",
+            "Score": 1,
+            "Fouls": 0
+        },
+        "Player3": {
+            "Name": "karim",
+            "Score": 3,
+            "Fouls": 1
+        },
+        "Player4": {
+            "Name": "Nabil",
+            "Score": 2,
+            "Fouls": 0
+        },
+        "Total_Score": 6
+    }
+}
